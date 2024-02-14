@@ -23,9 +23,14 @@ Mobile.tap(findTestObject('Object Repository/android.widget.ImageView'), 0)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.TextView - LOGIN'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText (11)'), 'fariz', 0)
+Mobile.setText(findTestObject('Object Repository/Manual/android.widget.EditUsername'), username, 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText (12)'), 'Password@1', 0)
+Mobile.setText(findTestObject('Object Repository/Manual/android.widget.EditPassword'), password, 0)
+
+//Mobile.setText(findTestObject('Object Repository/android.widget.EditText (11)'), 'fariz3', 0)
+//
+//Mobile.setText(findTestObject('Object Repository/android.widget.EditText (12)'), 'Password@1', 0)
+
 
 Mobile.tap(findTestObject('Object Repository/android.widget.Button - LOGIN'), 0)
 
@@ -33,7 +38,7 @@ Mobile.tap(findTestObject('Object Repository/android.widget.Button - NO'), 0)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.ImageView'), 0)
 
-Mobile.delay(10, FailureHandling.STOP_ON_FAILURE)
+Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.closeApplication()
 

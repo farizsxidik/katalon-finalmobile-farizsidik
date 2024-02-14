@@ -1,0 +1,62 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Suite,,,,14-02-2024 08:16:25,14-02-2024 08:19:39,3m - 13.691s,PASSED
+,,,,,,,
+Test Cases/TC-Login,,,,14-02-2024 08:16:25,14-02-2024 08:17:06,40.208s,PASSED
+"startApplication(""/Users/farizsidik/Downloads/Advantage+demo+3.2.apk"", true)",,,,14-02-2024 08:16:26,14-02-2024 08:16:37,11.469s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.ImageView""), 0)",,,,14-02-2024 08:16:37,14-02-2024 08:16:40,3.227s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.TextView - LOGIN""), 0)",,,,14-02-2024 08:16:40,14-02-2024 08:16:42,1.840s,PASSED
+"setText(findTestObject(""Object Repository/Manual/android.widget.EditUsername""), username, 0)",,,,14-02-2024 08:16:42,14-02-2024 08:16:45,3.362s,PASSED
+"setText(findTestObject(""Object Repository/Manual/android.widget.EditPassword""), password, 0)",,,,14-02-2024 08:16:45,14-02-2024 08:16:48,2.388s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.Button - LOGIN""), 0)",,,,14-02-2024 08:16:48,14-02-2024 08:16:49,1.339s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.Button - NO""), 0)",,,,14-02-2024 08:16:49,14-02-2024 08:16:52,2.383s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.ImageView""), 0)",,,,14-02-2024 08:16:52,14-02-2024 08:16:53,1.492s,PASSED
+"delay(10, STOP_ON_FAILURE)",,,,14-02-2024 08:16:53,14-02-2024 08:17:03,10.041s,PASSED
+closeApplication(),,,,14-02-2024 08:17:03,14-02-2024 08:17:06,2.487s,PASSED
+,,,,,,,
+Test Cases/TC-Login,,,,14-02-2024 08:17:06,14-02-2024 08:17:43,37.597s,PASSED
+"startApplication(""/Users/farizsidik/Downloads/Advantage+demo+3.2.apk"", true)",,,,14-02-2024 08:17:06,14-02-2024 08:17:16,10.336s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.ImageView""), 0)",,,,14-02-2024 08:17:16,14-02-2024 08:17:19,2.881s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.TextView - LOGIN""), 0)",,,,14-02-2024 08:17:19,14-02-2024 08:17:21,1.881s,PASSED
+"setText(findTestObject(""Object Repository/Manual/android.widget.EditUsername""), username, 0)",,,,14-02-2024 08:17:21,14-02-2024 08:17:24,3.323s,PASSED
+"setText(findTestObject(""Object Repository/Manual/android.widget.EditPassword""), password, 0)",,,,14-02-2024 08:17:24,14-02-2024 08:17:26,2.326s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.Button - LOGIN""), 0)",,,,14-02-2024 08:17:26,14-02-2024 08:17:28,1.529s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.Button - NO""), 0)",,,,14-02-2024 08:17:28,14-02-2024 08:17:29,1.369s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.ImageView""), 0)",,,,14-02-2024 08:17:29,14-02-2024 08:17:31,1.554s,PASSED
+"delay(10, STOP_ON_FAILURE)",,,,14-02-2024 08:17:31,14-02-2024 08:17:41,10.019s,PASSED
+closeApplication(),,,,14-02-2024 08:17:41,14-02-2024 08:17:43,2.355s,PASSED
+,,,,,,,
+Test Cases/TC-Login,,,,14-02-2024 08:17:43,14-02-2024 08:18:22,38.790s,PASSED
+"startApplication(""/Users/farizsidik/Downloads/Advantage+demo+3.2.apk"", true)",,,,14-02-2024 08:17:43,14-02-2024 08:17:53,9.895s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.ImageView""), 0)",,,,14-02-2024 08:17:53,14-02-2024 08:17:56,3.206s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.TextView - LOGIN""), 0)",,,,14-02-2024 08:17:56,14-02-2024 08:17:58,1.743s,PASSED
+"setText(findTestObject(""Object Repository/Manual/android.widget.EditUsername""), username, 0)",,,,14-02-2024 08:17:58,14-02-2024 08:18:02,3.724s,PASSED
+"setText(findTestObject(""Object Repository/Manual/android.widget.EditPassword""), password, 0)",,,,14-02-2024 08:18:02,14-02-2024 08:18:04,2.419s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.Button - LOGIN""), 0)",,,,14-02-2024 08:18:04,14-02-2024 08:18:05,0.926s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.Button - NO""), 0)",,,,14-02-2024 08:18:05,14-02-2024 08:18:07,2.222s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.ImageView""), 0)",,,,14-02-2024 08:18:07,14-02-2024 08:18:10,2.475s,PASSED
+"delay(10, STOP_ON_FAILURE)",,,,14-02-2024 08:18:10,14-02-2024 08:18:20,10.011s,PASSED
+closeApplication(),,,,14-02-2024 08:18:20,14-02-2024 08:18:22,2.154s,PASSED
+,,,,,,,
+Test Cases/TC-Login,,,,14-02-2024 08:18:22,14-02-2024 08:19:01,38.505s,PASSED
+"startApplication(""/Users/farizsidik/Downloads/Advantage+demo+3.2.apk"", true)",,,,14-02-2024 08:18:22,14-02-2024 08:18:32,9.874s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.ImageView""), 0)",,,,14-02-2024 08:18:32,14-02-2024 08:18:35,3.267s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.TextView - LOGIN""), 0)",,,,14-02-2024 08:18:35,14-02-2024 08:18:38,3.137s,PASSED
+"setText(findTestObject(""Object Repository/Manual/android.widget.EditUsername""), username, 0)",,,,14-02-2024 08:18:38,14-02-2024 08:18:40,1.928s,PASSED
+"setText(findTestObject(""Object Repository/Manual/android.widget.EditPassword""), password, 0)",,,,14-02-2024 08:18:40,14-02-2024 08:18:43,2.291s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.Button - LOGIN""), 0)",,,,14-02-2024 08:18:43,14-02-2024 08:18:44,1.486s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.Button - NO""), 0)",,,,14-02-2024 08:18:44,14-02-2024 08:18:46,1.627s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.ImageView""), 0)",,,,14-02-2024 08:18:46,14-02-2024 08:18:48,2.409s,PASSED
+"delay(10, STOP_ON_FAILURE)",,,,14-02-2024 08:18:48,14-02-2024 08:18:58,10.010s,PASSED
+closeApplication(),,,,14-02-2024 08:18:58,14-02-2024 08:19:01,2.457s,PASSED
+,,,,,,,
+Test Cases/TC-Login,,,,14-02-2024 08:19:01,14-02-2024 08:19:39,38.392s,PASSED
+"startApplication(""/Users/farizsidik/Downloads/Advantage+demo+3.2.apk"", true)",,,,14-02-2024 08:19:01,14-02-2024 08:19:11,10.371s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.ImageView""), 0)",,,,14-02-2024 08:19:11,14-02-2024 08:19:15,4.372s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.TextView - LOGIN""), 0)",,,,14-02-2024 08:19:15,14-02-2024 08:19:16,0.886s,PASSED
+"setText(findTestObject(""Object Repository/Manual/android.widget.EditUsername""), username, 0)",,,,14-02-2024 08:19:16,14-02-2024 08:19:19,3.207s,PASSED
+"setText(findTestObject(""Object Repository/Manual/android.widget.EditPassword""), password, 0)",,,,14-02-2024 08:19:19,14-02-2024 08:19:22,2.205s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.Button - LOGIN""), 0)",,,,14-02-2024 08:19:22,14-02-2024 08:19:23,0.939s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.Button - NO""), 0)",,,,14-02-2024 08:19:23,14-02-2024 08:19:25,2.355s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.ImageView""), 0)",,,,14-02-2024 08:19:25,14-02-2024 08:19:26,1.470s,PASSED
+"delay(10, STOP_ON_FAILURE)",,,,14-02-2024 08:19:26,14-02-2024 08:19:36,10.010s,PASSED
+closeApplication(),,,,14-02-2024 08:19:36,14-02-2024 08:19:39,2.561s,PASSED

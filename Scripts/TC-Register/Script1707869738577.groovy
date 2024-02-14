@@ -25,19 +25,19 @@ Mobile.tap(findTestObject('Object Repository/android.widget.TextView - LOGIN'), 
 
 Mobile.tap(findTestObject('Object Repository/android.widget.TextView - SIGN UP TODAY'), 0)
 
-Mobile.setText(findTestObject('android.widget.EditText'), 'fariz', 0)
+Mobile.setText(findTestObject('android.widget.EditText'), 'megauser', 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText (1)'), 'fariz@user.com', 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText (1)'), 'mega@email.com', 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText (2)'), 'Password@1', 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText (2)'), 'kataSandi', 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText (3)'), 'Password@1', 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText (3)'), 'kataSandi', 0)
 
 Mobile.hideKeyboard()
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText (4)'), 'Fariz', 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText (4)'), 'User', 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText (5)'), 'Sidik', 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText (5)'), 'Satu', 0)
 
 Mobile.hideKeyboard()
 
@@ -45,21 +45,21 @@ Mobile.setText(findTestObject('Object Repository/android.widget.EditText (6)'), 
 
 Mobile.hideKeyboard()
 
-Mobile.tap(findTestObject('Object Repository/android.widget.TextView - United States'), 0)
-
-Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Indonesia'), 0)
-
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText (7)'), 'Jakarta Selatan', 0)
-
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText (7)'), 'Jakarta', 0)
-
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText (8)'), 'Kost', 0)
-
-Mobile.hideKeyboard()
-
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText (9)'), 'Jaksel', 0)
-
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText (10)'), '53152', 0)
+//Mobile.tap(findTestObject('Object Repository/android.widget.TextView - United States'), 0)
+//
+//Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Indonesia'), 0)
+//
+//Mobile.setText(findTestObject('Object Repository/android.widget.EditText (7)'), 'Jakarta Selatan', 0)
+//
+//Mobile.setText(findTestObject('Object Repository/android.widget.EditText (7)'), 'Jakarta', 0)
+//
+//Mobile.setText(findTestObject('Object Repository/android.widget.EditText (8)'), 'Kost', 0)
+//
+//Mobile.hideKeyboard()
+//
+//Mobile.setText(findTestObject('Object Repository/android.widget.EditText (9)'), 'Jaksel', 0)
+//
+//Mobile.setText(findTestObject('Object Repository/android.widget.EditText (10)'), '53152', 0)
 
 //Mobile.tap(findTestObject('Object Repository/android.widget.Switch - Use my Location'), 0)
 
